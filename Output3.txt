@@ -1,0 +1,5 @@
+CarID,Owner,Weight,Position
+84309,lala,5.560000,1
+89901,Intela,10100.000000,2
+5354,UP_EGR,256.000000,3
+84745,okay,2.000000,4

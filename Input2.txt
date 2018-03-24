@@ -1,0 +1,14 @@
+=Insert=
+CarID,Owner,Weight,Position
+89901,Intela,10100,1
+5890,UP,12000,3
+5354,UP_EGR,256,2
+84309,lala,5.56,1
+8923,haha,4.1,4
+84745,okay,2,9
+
+=Remove=
+Car ID
+
+=Print=
+Output2.txt
